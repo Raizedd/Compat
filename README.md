@@ -1,1 +1,1 @@
-# Compat, now archived
+# Compat, now archived.
